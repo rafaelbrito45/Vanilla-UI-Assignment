@@ -1,0 +1,32 @@
+body{
+    color:white;
+    background-color: #3994e3;
+}
+
+.main-header{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 10rem;
+}
+
+.card{
+    color: black;
+    
+}
+
+.deleteButton{
+    height:40px;
+}
+
+.form-error{
+    display: none;
+}
+
+.form-error-display{
+    margin-top: 30px;
+}
+
+
+
+/*# sourceMappingURL=/app.581aa3f0.css.map */

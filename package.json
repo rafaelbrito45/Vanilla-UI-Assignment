@@ -1,0 +1,22 @@
+{
+  "name": "rate_your_movie",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "rm -rf ./development && rm -rf ./.cache && parcel public/index.html --out-dir development -p 8888",
+    "build": "parcel build public/index.html --out-dir dist --public-url ./"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/core": "^7.16.0",
+    "@babel/plugin-transform-runtime": "^7.16.0",
+    "@babel/runtime-corejs2": "^7.16.0",
+    "parcel-bundler": "^1.12.5"
+  },
+  "dependencies": {
+    "axios": "^0.24.0"
+  }
+}
