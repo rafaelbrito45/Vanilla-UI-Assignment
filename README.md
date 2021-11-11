@@ -23,7 +23,7 @@ then the application is ready to go, open on [localhost:8888](localhost:8888)
 
 
 
-**Additional information**
+<h2>Additional information</h2>
 
 run the command `npm run build` to compile everything to a static asset on the folder named dist
 
