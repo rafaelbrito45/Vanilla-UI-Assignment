@@ -7,7 +7,7 @@ Assignment for Avenue Code Academy - UI essentials
 Rate your movie is a basic application for Avenue Code UI essentials academy, it is a feature that allows you to add movies you've watched and rate them.
 
 
-<h4>Getting Started</h4>
+<h2>Getting Started</h2>
 
 Make sure you have node installed 
 
