@@ -11,7 +11,7 @@ Rate your movie is a basic application for Avenue Code UI essentials academy, it
 
 Make sure you have node installed 
 
-Open a terminal in the projects' folder and run `npm install`
+Open a terminal in the project's folder and run `npm install`
 
 with all the packages installed you can split your terminal or open a new one on the same folder 
 
